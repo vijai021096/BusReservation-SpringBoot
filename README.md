@@ -1,2 +1,2 @@
-# CabBooking-SpringBoot
-Cab Booking Rest Api
+# BusReservation-SpringBoot
+BusReservation  Rest Api
